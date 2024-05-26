@@ -1,0 +1,170 @@
+[
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Playground.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Playground.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Playground.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\PlaygroundGameModeBase.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\PlaygroundGameModeBase.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\ChessGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\ChessManager.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\ChessPieces.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\ChessPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\GridBasedPlayer.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\GridSystem.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\SnakeActor.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Private\\SnakeGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\ChessGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\ChessManager.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\ChessPieces.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\ChessPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\GridBasedPlayer.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\GridSystem.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\SnakeActor.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\Source\\Playground\\Public\\SnakeGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\muham\\Documents\\Unreal Projects\\Playground\\.vscode\\compileCommands_Playground\\Playground.261.rsp"
+		],
+		"directory": "C:\\UE_5.2\\Engine\\Source"
+	}
+]
